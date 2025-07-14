@@ -19,7 +19,6 @@ This project uses a Convolutional Neural Network (CNN) to detect the presence of
 - Python 3.x
 - TensorFlow / Keras
 - NumPy, Matplotlib, OS
-- OpenCV (for image processing)
 - Google Colab / Jupyter Notebook
 - Git, GitHub
 

@@ -26,7 +26,7 @@ This project uses a Convolutional Neural Network (CNN) to detect the presence of
 ---
 
 ## 📁 Project Structure
-'''
+```
 
 brain_tumor_app/
 ├── data/
@@ -38,5 +38,4 @@ brain_tumor_app/
 ├── requirements.txt
 └── README.md
 
-
-'''
+```

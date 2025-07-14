@@ -27,3 +27,12 @@ This project uses a Convolutional Neural Network (CNN) to detect the presence of
 
 ## 📁 Project Structure
 
+brain_tumor_app/
+├── data/
+│ ├── yes/ # Tumor images
+│ └── no/ # Non-tumor images
+├── model/ # Place your .h5 model here after download
+├── train.py # Training script for CNN
+├── utils.py # Utility functions
+├── requirements.txt
+└── README.md

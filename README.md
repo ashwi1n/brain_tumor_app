@@ -40,3 +40,12 @@ brain_tumor_app/
 
 
 '''
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/ashwi1n/brain_tumor_app.git
+cd brain_tumor_app
